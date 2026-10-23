@@ -1,0 +1,67 @@
+{
+  "build_script": "vite build",
+  "gameplay_or_asset_changes": false,
+  "google_fonts_selfhost": {
+    "families": [
+      {
+        "family": "Chakra Petch",
+        "source": "ofl/chakrapetch/OFL.txt",
+        "spdx": "OFL-1.1"
+      },
+      {
+        "family": "Orbitron",
+        "source": "ofl/orbitron/OFL.txt",
+        "spdx": "OFL-1.1"
+      }
+    ],
+    "font_files": 21,
+    "fonts_dir": ".packaging/google-fonts",
+    "google_fonts_commit": "e7db6ca603fd4862010383ff17ffd6cc4ffac1c0",
+    "helper": "google-fonts-selfhost.py",
+    "stylesheets": [
+      {
+        "local": ".packaging/google-fonts/bb7649e4d12afbf9.css",
+        "sha256": "07d9aec053e7884f63527a32322a3ebc5a1354bcd578549e1d59753c1c3b101b",
+        "url": "https://fonts.googleapis.com/css2?family=Orbitron:wght@500;600;700;800;900&family=Chakra+Petch:wght@300;400;500;600;700&display=swap"
+      }
+    ],
+    "total_font_bytes": 161740,
+    "version": 1
+  },
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "2303051051429-boop/snake-neon-game",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json",
+    ".packaging/google-fonts/NOTICE.md",
+    ".packaging/google-fonts/bb7649e4d12afbf9.css",
+    ".packaging/google-fonts/files/031679c81d337cff1ec6.woff2",
+    ".packaging/google-fonts/files/0462c0e8ae2978164e66.woff2",
+    ".packaging/google-fonts/files/0f64b4015ce9869c934d.woff2",
+    ".packaging/google-fonts/files/0fe8a7eb7177aed66153.woff2",
+    ".packaging/google-fonts/files/14193fee8c5af7a35de6.woff2",
+    ".packaging/google-fonts/files/15cf86e4dfa1e26fd666.woff2",
+    ".packaging/google-fonts/files/17b7a414026ca3a280f4.woff2",
+    ".packaging/google-fonts/files/1ff5bd6616ae39a44f4a.woff2",
+    ".packaging/google-fonts/files/32aa53fc0752edc3f580.woff2",
+    ".packaging/google-fonts/files/39cb39a566b00d0fb638.woff2",
+    ".packaging/google-fonts/files/4a440f59a6bae9d20acc.woff2",
+    ".packaging/google-fonts/files/4b9b898d83571fb9cb44.woff2",
+    ".packaging/google-fonts/files/5f72842cf8f67a509700.woff2",
+    ".packaging/google-fonts/files/609ecceaf4b89887bcb3.woff2",
+    ".packaging/google-fonts/files/6e406c5f67c6bf26e439.woff2",
+    ".packaging/google-fonts/files/8e128f6f4e4be277a920.woff2",
+    ".packaging/google-fonts/files/baa0b9965c24c770d338.woff2",
+    ".packaging/google-fonts/files/c5712c64c728228b5edf.woff2",
+    ".packaging/google-fonts/files/d1f084d11bf3851821ae.woff2",
+    ".packaging/google-fonts/files/e1b02774ba534b26e6b5.woff2",
+    ".packaging/google-fonts/files/e949af5469e15e2e8299.woff2",
+    ".packaging/google-fonts/licenses/Chakra-Petch-OFL-1.1.txt",
+    ".packaging/google-fonts/licenses/Orbitron-OFL-1.1.txt",
+    "index.html"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "9e5578c0fea9c99540b543b772e34ffce69825cd"
+}
